@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ChirantanSonu2001
-- 👀 I’m interested in ...JAVA
-- 🌱 I’m currently learning ...MCA
+- 👀 I’m interested in ...Fronted Developer
 - 💞️ I’m looking to collaborate on ...No
 - 📫 How to reach me ... BHUBANESWAR 
 
