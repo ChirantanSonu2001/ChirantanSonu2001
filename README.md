@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ChirantanSonu2001
-- 👀 I’m interested in ...Fronted Developer
-- 💞️ I’m looking to collaborate on ...No
-- 📫 How to reach me ... BHUBANESWAR 
+- 👋 Hi, I’m @ChirantanBhatta
 
 <!---
 ChirantanSonu2001/ChirantanSonu2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
